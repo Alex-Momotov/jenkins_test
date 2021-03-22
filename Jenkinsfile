@@ -6,6 +6,7 @@ pipeline {
 		stage("Hello world") {
 			steps {
 				sh "ls -la"
+				sh "ls -la"
 			}
 		}
 	}
