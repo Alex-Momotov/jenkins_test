@@ -1,0 +1,21 @@
+# _____________________________________________________________________________________________
+# Great learning videos
+Learning Jenkins                    https://www.linkedin.com/learning/learning-jenkins/welcome
+Jenkins Essential Training          https://www.linkedin.com/learning/jenkins-essential-training
+Complete Jenkins Pipeline Tutorial  https://www.youtube.com/watch?v=7KCS70sCoK0
+
+
+# Pipeline syntax
+Pipeline syntax 		  https://www.jenkins.io/doc/book/pipeline/syntax/#parameters-example
+Pipeline syntax two 	https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
+Steps reference       http://<JENKINS_URL>/job/<ANY_JOB>/pipeline-syntax/html
+
+
+# Writing pipeline
+- Edit pipeline script directly on configure page of a 'pipeline' job type
+  Jenkins > Job (pipeline type) > Configure > scroll down > Definition - 'pipeline script'
+- Use Pipeline Syntax sandbox on a jenkins machine
+  Jenkins > Job (pipeline type) > Configure > scroll down > 'Pipeline syntax'
+
+
+# _____________________________________________________________________________________________
